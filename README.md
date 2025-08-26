@@ -5,4 +5,4 @@ The report (`320_hw2.pdf`) examines how demographics such as political leaning, 
 
 Tools used: Python (pandas, NumPy, Matplotlib).
 
-📄 See `320_hw2.pdf` for the full analysis.
+See `320_hw2.pdf` for the full analysis.
